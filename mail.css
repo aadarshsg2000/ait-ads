@@ -9,7 +9,7 @@ section{
     scroll-behavior: smooth;
 }
 .contact-title{
-    margin-top: 60px;
+    margin-top: 27px;
     color:#fff;
     text-transform: uppercase;
     transition: all 4s ease-in-out;
@@ -20,8 +20,13 @@ section{
     line-height: 10px;
 
 }
+.contact-title p{
+    font-size: 32px;
+    line-height: 10px;
+
+}
 form{
-    margin-top: 50px;
+    margin-top: 13px;
     transition: all 4s ease-in-out;
    
 }
